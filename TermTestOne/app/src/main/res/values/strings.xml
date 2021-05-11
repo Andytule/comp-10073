@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test One - Andy Le 000805099</string>
+    <string-array name="options">
+        <item>add 1</item>
+        <item>add 2</item>
+        <item>sub 1</item>
+        <item>sub 2</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+    <string name="text">One Button Counter</string>
+</resources>

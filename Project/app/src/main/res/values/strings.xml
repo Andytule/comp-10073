@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project - Andy 000805099</string>
+    <string name="open">Drawer Is Open</string>
+    <string name="close">Drawer Is Closed</string>
+    <string name="tab1">Course List</string>
+    <string name="tab2">Feedback List</string>
+    <string name="tab3">Course Feedback</string>
+    <string name="header">Final Project</string>
+    <string name="android_description">Android Icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_button">SEE LIST</string>
+    <string name="add_button">ADD FEEDBACK</string>
+    <string name="name_hint">Enter Course Name</string>
+    <string name="feedback_hint">Enter Notes</string>
+</resources>

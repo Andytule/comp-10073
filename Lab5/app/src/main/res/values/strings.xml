@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab 5 - Andy 000805099</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Please Login.</string>
+    <string name="user_name">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="user_name_hint">Andy</string>
+    <string name="password_hint">Le</string>
+    <string name="okay">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="header_text">My Secret Application</string>
+    <string name="login_button">Login</string>
+</resources>

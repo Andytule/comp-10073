@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab 8 - Andy 000805099</string>
+    <string name="open">\"Drawer Is Open\"</string>
+    <string name="close">Drawer Is Closed</string>
+    <string name="Header">Mohawk College</string>
+    <string name="Email">Mohawkcollege@gmail.com</string>
+    <string name="title1">COMP - 10001</string>
+    <string name="title2">COMP - CO710</string>
+    <string name="title3">COMP - CO910</string>
+    <string-array name="comp10001">
+        <item>COMP - 10001</item>
+        <item>Programming Fundamentals</item>
+        <item>Build a foundation for learning and practicing the discipline of Software Engineering and the application of tools and methods to produce and maintain quality software systems. Develop essential skills to create software structures and logic. Develop knowledge and disciplines which are transferrable to any computer-based software problem.</item>
+    </string-array>
+    <string-array name="compCO710">
+        <item>COMP - CO710</item>
+        <item>HTML and CSS</item>
+        <item>Create Web Pages using the HyperText Markup Language (HTML). Format Web pages using Cascading Style Sheets (CSS). Create Web pages that include lists, links, images, Web Tables, and Web Forms, styled with CSS. Use Web Accessibility Initiative (WAI) rules for accessibility compliance in design.</item>
+    </string-array>
+    <string-array name="compCO910">
+        <item>COMP - CO910</item>
+        <item>Introduction To Networking</item>
+        <item>Administer Microsoft Windows and UNIX hosts within a virtualized environment. Design and implement common network-level services. Create and utilize software development environments.</item>
+    </string-array>
+</resources>

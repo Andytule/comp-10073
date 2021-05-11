@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="add_button">ADD PRODUCT</string>
+    <string name="list_button">SEE LIST</string>
+    <string name="header">Database Example</string>
+    <string name="name_hint">Enter Product Name</string>
+    <string name="number_hint">Enter Serial Number</string>
+</resources>
